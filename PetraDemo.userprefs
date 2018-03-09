@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BE709DB8-D8A0-4560-84E2-6262E994FBDD}|Default">
+  <MonoDevelop.Ide.ItemProperties.PetraDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8AF107ED-BDF5-40EB-B109-5BF070327922">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.PetraDemo>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PetraDemo/XamarinView.cs">
+    <Files>
+      <File FileName="PetraDemo/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="PetraDemo/Main.storyboard" />
+      <File FileName="PetraDemo/XamarinView.cs" Line="31" Column="36" />
+      <File FileName="PetraDemo/ArtboardXamarin.cs" Line="157" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
